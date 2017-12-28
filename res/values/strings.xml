@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">Civilized Or Not</string>
+    <string name="APP_ID">714299588614989</string>
+    <string name="title">Civilized Or Not</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="help">Essay</string>
+    <string name="trueButton">Civilized</string>
+    <string name="titleResult"><u>Results</u></string>
+    <string name="falseButton">Not</string>
+    <string name="game">game</string>
+    <string name="share">Share</string>
+    <string name="title_activity_game">Game</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_help">Help</string>
+    <string name="essay_title">Twain on Being Civilized</string>
+    <string name="helpDisplay"></string>
+    <string name="app_id">1389xxxxxxxx</string>
+    <string name="facebook_login">Facebook Login</string>
+    <string name="title_activity_results">Results</string>
+    <string name="essay">
+	\t\t\tMark Twain’s piece, The Adventures of Huckleberry Finn, has changed my perspective on what it means to be civilized. Prior to reading this novel, being civilized, to me, meant being a functioning member of society. In his novel, Twain defines what it means to be civilized by illuminating the hypocrisy of the society surrounding Huck. Twain’s perspective is that being civilized is more about moral sensitivity than practicing social customs.
+	\n\t\t\tIn the beginning of the novel, Huck portrays an “uncivilized” boy that doesn’t understand social etiquette and practices. In attempt to “sivilize” Huck, the Widow Douglas takes care of Huck like her son; she dresses him in new clothes, tells him to pray before eating and teaches him about Moses. When Huck wanted to smoke, the Widow replies by saying it “was a mean practice and wasn’t clean.” (Twain 3). In other words, something that is not civil. However, Huck finds out that Widow Douglas took snuff, an alternative tobacco product. Twain points out that practicing these customs don’t make you civilized. One day, Huck’s alcoholic father shows up in town and demands custody of Huck. Unfortunately, the Judge decides to give Huck’s father the right to Huck’s custody, merely because, “he’d druther not take a child away from its father” (Twain 37). Again, Twain criticizes society’s view of being civilized by illuminating a choice that is morally wrong but socially right. 
+	\n\t\t\tIn the latter half of the novel, Twain reinforces his perspective of what it means to be civilized by revealing Huck’s moral changes and that Huck is actually civilized. Huck escapes his father’s custody and meets up with Jim, a runaway slave. During this time, if someone were to be found helping a runaway, he or she would be put to death. Despite these possible consequences, Huck decides to help him even though he wrestles with his conscience. Through Huck’s decision, Twain starts to reveal what it truly means to be civilized. In chapter 31, Huck writes a letter to Miss Watson about how Jim was caught. He knows that if he were to send the letter Jim would be put to death for running away. Instead of sending the letter, Huck says “All right then, I’ll go to hell’—and tore it (the letter) up” (Twain 368). Realizing fully the consequences society tells he faces, he makes the morally right decision, concluding Twain’s revealing of what it truly means to be civilized. 
+	\n\t\t\tThroughout The Adventures of Huckleberry Finn, author Mark Twain establishes what it truly means to be civilized, through a character considered one of the most uncivilized. Although Southern society during the book’s setting defined being civilized as practicing social customs and etiquette, Twain reveals that being civilized is about moral sensitivity and differentiating between what is truly right and wrong. Twain develops Huck in to what being civilized is all about; doing the right thing. Twain has taught me that there is so much more in doing the right thing than fitting in to society and practicing its customs.
+	
+
+        
+    </string>
+
+    <string-array name="civilized" translatable="false">
+        <item>Huckleberry Finn (End)</item>
+        <item>Judge Thatcher</item>
+        <item>Miss Watson</item>
+        <item>Jim</item>
+        <item>The Widow Douglas</item>
+    </string-array>
+    
+    <string-array name="not_civilized">
+        <item>Huckleberry Finn (Beginning)</item>
+        <item>Duke</item>
+        <item>King</item>
+        <item>Huck\'s Dad</item>
+        <item>The Grangerfords</item>
+    </string-array>
+
+</resources>
